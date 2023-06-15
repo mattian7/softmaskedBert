@@ -185,7 +185,7 @@ class AbstractDataLoader(object):
                     batch_data = datas[start_idx:end_idx]
                 else:
                     batch_data = datas[start_idx:num_total]
-                built_batch = self.__build_batch(batch_data)
+                built_batch = self.get_dataloader_module(batch_data)
                 if set_type == 'train':
                     self.trainset_batches.append(built_batch)
                 elif set_type == 'valid':
