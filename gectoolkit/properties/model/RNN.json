@@ -1,0 +1,23 @@
+{
+    "embedding_size":128,
+    "pretrained_model_path":"./gectoolkit/properties/model/RNN",
+    "approx":"none", 
+    "backend":"nccl",
+    "loss_type": "FC_FT_CRF",
+    "train_batch_size":64,
+    "test_batch_size":32,
+    "dropout":0.2,
+    "embed_dim":300,
+    "hidden_dim": 128,
+    "ff_embed_dim":3072,
+    "max_output_len":50,
+    "max_input_len": 50,
+    "fp16":0, 
+    "layers":12, 
+    "log_dir":"log", 
+    "lr":0.0001,
+    "min_occur_cnt":2500, 
+    "num_examples":0, 
+    "gamma": 0.5,
+    "num_heads":12
+}
