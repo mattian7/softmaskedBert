@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "source_text": "你好！我是张爱文。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 1,
+    "source_text": "下个星期，我跟我朋唷打算去法国玩儿。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 2,
+    "source_text": "我听说，你找到新工作，我很高兴。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 3,
+    "source_text": "对不气，最近我很忙，所以我不会去妳的。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 4,
+    "source_text": "真麻烦你了。希望你们好好的跳无。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 5,
+    "source_text": "我本来要参加这个会的，可是我今天有一点儿事情一定要做完。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 6,
+    "source_text": "所以我先去看医生，再去你的祝庆会。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 7,
+    "source_text": "吃了早菜以后他去上课。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 8,
+    "source_text": "坐路差不多十分钟，我们到了。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 9,
+    "source_text": "他知道今天，高中三年级的最后一天，是个很重要的天。",
+    "target_text": "",
+    "label": ""
+  },
+  {
+    "id": 10,
+    "source_text": "他们看了一个很可爱的电影，一个小机一个人去火星。",
+    "target_text": "",
+    "label": ""
+  }
+]
